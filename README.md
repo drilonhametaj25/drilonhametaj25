@@ -6,7 +6,7 @@
 
 ## I'm a Developer and Computer Science student!!
 
-- 📕 I’m currently study Computer Science
+- 📕 I’m currently study Computer Engineering
 - ⚡  I am constantly taking new courses to learn new skills
 - 🤖 I'm in love with new technology like Blockchain, AI, ML
 
