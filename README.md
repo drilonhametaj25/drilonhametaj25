@@ -1,4 +1,4 @@
-### Hi there, I'm Drilon Hametaj 👋
+# Hi there, I'm Drilon Hametaj 👋
 
 [![LinkedIn Follow](https://img.shields.io/twitter/follow/drilonhametaj?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://it.linkedin.com/in/drilon-hametaj)
 
